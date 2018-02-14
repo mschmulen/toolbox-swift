@@ -1,0 +1,4 @@
+module RxCocoaRuntime {
+    umbrella header "/Users/matt1106/trees/github/mschmulen/isomorphic-swift/app/.build/checkouts/RxSwift.git--5214619868639177420/Sources/RxCocoaRuntime/include/RxCocoaRuntime.h"
+    export *
+}
